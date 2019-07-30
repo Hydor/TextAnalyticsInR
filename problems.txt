@@ -1,0 +1,20 @@
+b. Find the 10 longest sentences in the text use R
+
+c. For each paragraph, to display the dendrogram and the WordCloud.
+
+d. Find the longest word and longest sentence in each of the paragraphs. 
+	Print a table of the length of the shortest and longest sentences in each chapter.
+	
+e. Use WordNet to mark the parts of speech for the first five paragraphs for nouns and verbs having a length of 5 or greater.
+
+f. Analyze word frequency using functions from package zipfR.
+
+g. Generate bigrams and trigrams for all words in the first three paragraphs.
+
+h. Process the text from text using corpusTools,  stringi, corpustools, and quanteda. 
+
+
+
+Search function:
+Write an R function to search through the documents to find a specific word or phrase. 
+Print the document number, line number, and word index in the sentence.
